@@ -1,2 +1,2 @@
 # todo-app
-todo GUI
+All components of the todo GUI application 
